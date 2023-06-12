@@ -10,3 +10,5 @@ The main topics are:
 - T - Tes, KS-Test
 - Decision Tree 
 - Machine Learning
+
+see Team_Daverio.ipynb to find out more
